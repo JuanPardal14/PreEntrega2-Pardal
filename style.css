@@ -6,29 +6,32 @@
 .navbar-collapse{
     background-color: red;
 }
-.nav-link{
-    color: white;
-}
 .container-fluid{
     background-color:red;
 }
+.nav-link{
+    color: white;
+}
+
 h1{
     background-color:red;
     color:white;
 }
 .container{
-    height:380px;
-    background-color:red;
+    height:450px;
     text-align: center;
+    font-weight:bold;
+    font-size: large;
+    text-align:center;
     
 }
 .tumama{
-    background-color:red;
-    border:solid white 2px;
-    height:380px;
-    color:white;
+    background-color:white ;
+    height:400px;
     font-weight:bold;
     padding-top:10px;
+    border:solid black 2px;
+    border-radius:10px;   
 }
 
 .imagencolumnna{
