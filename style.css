@@ -12,3 +12,29 @@
 .container-fluid{
     background-color:red;
 }
+h1{
+    background-color:red;
+    color:white;
+}
+.container{
+    height:380px;
+    background-color:red;
+    text-align: center;
+    
+}
+.tumama{
+    background-color:red;
+    border:solid white 2px;
+    height:380px;
+    color:white;
+    font-weight:bold;
+    padding-top:10px;
+}
+
+.imagencolumnna{
+    padding-right:1px;
+}
+.imagenes-noticiasprin{
+    height:202px;
+    width:352px;
+}
