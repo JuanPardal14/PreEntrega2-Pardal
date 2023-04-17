@@ -13,7 +13,7 @@
     color: white;
 }
 
-h1{
+h1 h2{
     background-color:red;
     color:white;
 }
@@ -25,19 +25,32 @@ h1{
     text-align:center;
     
 }
-.tumama{
+.news{
     background-color:white ;
     height:400px;
     font-weight:bold;
     border:solid red 2px;
     margin-top:5px;
     font-size:medium;
+    padding-top:5px ;
 }
 
-.imagencolumnna{
-    padding-right:1px;
-}
-.imagenes-noticiasprin{
+
+
+.imagenes-news{
     height:202px;
     width:352px;
+}
+.more{
+    height: 200px;
+    width: 200px;
+
+}
+.imagenes-more{
+    height:200px;
+    width:200px;
+}
+.contmore{
+    border:solid black 3px;
+    height:260px;
 }
