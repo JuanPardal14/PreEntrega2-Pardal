@@ -29,9 +29,9 @@ h1{
     background-color:white ;
     height:400px;
     font-weight:bold;
-    padding-top:10px;
-    border:solid black 2px;
-    border-radius:10px;   
+    border:solid red 2px;
+    margin-top:5px;
+    font-size:medium;
 }
 
 .imagencolumnna{
