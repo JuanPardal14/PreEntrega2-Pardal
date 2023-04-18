@@ -1,4 +1,7 @@
-
+*{
+    margin:0;
+    padding:0;
+}
 
 
 
@@ -37,4 +40,57 @@ a{
 }
 footer{
     background-color:black ;
+}
+.titulo{
+    text-align: center;
+}
+.ferrari {
+    background-color: red;
+    color: white
+}
+
+.mercedes {
+    background-color: aquamarine;
+}
+
+.alpine {
+    background-color: pink;
+}
+
+.mclaren {
+    background-color: orange;
+}
+
+.alfa {
+    background-color: maroon;
+}
+
+.aston {
+    background-color: rgb(35, 150, 131);
+}
+
+.haas {
+    color: red
+}
+
+.alpha {
+    background-color: darkslategrey;
+}
+
+.williams {
+    background-color: steelblue;
+}
+
+.tabla {
+    background-color: black;
+    color: white;
+}
+.rb {
+    background-color: midnightblue;
+    color: white
+}
+.table{
+    border:solid 2px black;
+    width: 100%;
+    height: 600px;
 }
