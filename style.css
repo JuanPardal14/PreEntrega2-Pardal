@@ -1,6 +1,5 @@
-*{
-    margin:0;
-}
+
+
 
 
 h1 h2{
@@ -20,7 +19,7 @@ h1 h2{
 }
 .imagenes-noticias-mas{
     height:200px;
-    width:250px;
+    width:350px;
 }
 .titulo{
     background-color:#dc3545;
