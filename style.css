@@ -63,6 +63,7 @@ footer{
 
 .alfa {
     background-color: maroon;
+    color: white;
 }
 
 .aston {
@@ -75,6 +76,7 @@ footer{
 
 .alpha {
     background-color: darkslategrey;
+    color: white;
 }
 
 .williams {
@@ -93,4 +95,18 @@ footer{
     border:solid 2px black;
     width: 100%;
     height: 600px;
+}
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.puntos {
+    text-align: right;
+    font-size: 25px;
+    color: white
+}
+.puntos2 {
+    text-align: right;
+    font-size: 25px;
+    color: black;
 }
