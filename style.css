@@ -1,13 +1,7 @@
+*{
+    margin:0;
+}
 
-.navbar-collapse{
-    background-color: red;
-}
-.container-fluid{
-    background-color:red;
-}
-.nav-link{
-    color: white;
-}
 
 h1 h2{
     background-color:red;
@@ -29,11 +23,19 @@ h1 h2{
     width:250px;
 }
 .titulo{
-    background-color:red;
+    background-color:#dc3545;
     color: white;
     font-weight:bold;
 }
 a{
     color: white;
     text-decoration:none;
+    text-align: center;
+    align-items: center;
+}
+.barra-nav-footer{
+    background-color:black ;
+}
+footer{
+    background-color:black ;
 }
