@@ -1,49 +1,59 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
 }
 
 
 
-h1 h2{
-    background-color:red;
-    color:white;
+h1 h2 {
+    background-color: red;
+    color: white;
 }
-.sec-noticias{
+
+.sec-noticias {
     text-align: center;
 
 }
-.imagenes-sec-noticias{
-    height:280px;
-    width:416px;
+
+.imagenes-sec-noticias {
+    height: 280px;
+    width: 416px;
 }
-.sec-noticias-mas{
+
+.sec-noticias-mas {
     text-align: center;
 }
-.imagenes-noticias-mas{
-    height:200px;
-    width:350px;
+
+.imagenes-noticias-mas {
+    height: 200px;
+    width: 350px;
 }
-.titulo{
-    background-color:#dc3545;
+
+.titulo {
+    background-color: #dc3545;
     color: white;
-    font-weight:bold;
+    font-weight: bold;
 }
-a{
+
+a {
     color: white;
-    text-decoration:none;
+    text-decoration: none;
     text-align: center;
     align-items: center;
 }
-.barra-nav-footer{
-    background-color:black ;
+
+.barra-nav-footer {
+    background-color: black;
 }
-footer{
-    background-color:black ;
+
+footer {
+    background-color: black;
 }
-.titulo{
+
+.titulo {
     text-align: center;
 }
+
 .ferrari {
     background-color: red;
     color: white
@@ -87,34 +97,41 @@ footer{
     background-color: black;
     color: white;
 }
+
 .rb {
     background-color: midnightblue;
     color: white
 }
-.table{
-    border:solid 2px black;
+
+.table {
+    border: solid 2px black;
     width: 100%;
     height: 600px;
 }
+
 td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+
 .puntos {
     text-align: right;
     font-size: 25px;
     color: white
 }
+
 .puntos2 {
     text-align: right;
     font-size: 25px;
     color: black;
 }
+
 .circuitos {
     height: 600px;
     color: white;
     background-color: grey;
 }
-.contacto{
-    height:700px;
+
+.contacto {
+    height: 700px;
 }
