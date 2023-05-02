@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+$color-principal:red;
+
+h1 h2 {
+    color: $color-principal;
+    color: white;
+}
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+}
+.titulo {
+    text-align: center;
+    background-color:$color-principal;
+    color: white;
+    font-weight: bold;
+}
+.navbar{
+    padding:0;
+}
+main{
+    padding:10px;
+}
+.puntos {
+    text-align: right;
+    font-size: 25px;
+    color: white
+}
+
+.puntos2 {
+    text-align: right;
+    font-size: 25px;
+    color: black;
+}
+.table {
+    border: solid 2px black;
+    width: 100%;
+    height: 600px;
+}
+
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.tabla {
+    background-color: black;
+    color: white;
+}
+
+
