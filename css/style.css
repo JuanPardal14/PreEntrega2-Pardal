@@ -58,6 +58,19 @@ td {
   color: white;
 }
 
+.contacto {
+  height: 700px;
+  background: url(../img/Sirope-Historias-Articulo-Opinion-nuevo-logo-f1-viejo.jpg) no-repeat;
+  background-size: cover;
+}
+
+.fondo-contacto {
+  background-image: url(../img/Sirope-Historias-Articulo-Opinion-nuevo-logo-f1-viejo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 footer {
   background-color: black;
 }
